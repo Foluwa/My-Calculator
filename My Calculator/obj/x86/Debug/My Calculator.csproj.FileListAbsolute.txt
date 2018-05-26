@@ -1,0 +1,16 @@
+C:\Users\MAX\Desktop\VSapp\My Calculator\My Calculator\bin\Debug\My Calculator.exe
+C:\Users\MAX\Desktop\VSapp\My Calculator\My Calculator\bin\Debug\My Calculator.pdb
+C:\Users\MAX\Desktop\VSapp\My Calculator\My Calculator\obj\x86\Debug\My Calculator.csprojResolveAssemblyReference.cache
+C:\Users\MAX\Desktop\VSapp\My Calculator\My Calculator\obj\x86\Debug\My_Calculator.Properties.Resources.resources
+C:\Users\MAX\Desktop\VSapp\My Calculator\My Calculator\obj\x86\Debug\My Calculator.csproj.GenerateResource.Cache
+C:\Users\MAX\Desktop\VSapp\My Calculator\My Calculator\obj\x86\Debug\My Calculator.exe
+C:\Users\MAX\Desktop\VSapp\My Calculator\My Calculator\obj\x86\Debug\My Calculator.pdb
+C:\Users\MAX\Desktop\VSapp\My Calculator\My Calculator\obj\x86\Debug\My_Calculator.Calculator.resources
+C:\Users\MAX\Desktop\WORK\Desktop\VSapp\My Calculator\My Calculator\obj\x86\Debug\My Calculator.exe
+C:\Users\MAX\Desktop\WORK\Desktop\VSapp\My Calculator\My Calculator\obj\x86\Debug\My Calculator.pdb
+C:\Users\MAX\Desktop\WORK\Desktop\VSapp\My Calculator\My Calculator\bin\Debug\My Calculator.exe
+C:\Users\MAX\Desktop\WORK\Desktop\VSapp\My Calculator\My Calculator\bin\Debug\My Calculator.pdb
+C:\Users\MAX\Desktop\WORK\Desktop\VSapp\My Calculator\My Calculator\obj\x86\Debug\My Calculator.csprojResolveAssemblyReference.cache
+C:\Users\MAX\Desktop\WORK\Desktop\VSapp\My Calculator\My Calculator\obj\x86\Debug\My_Calculator.Calculator.resources
+C:\Users\MAX\Desktop\WORK\Desktop\VSapp\My Calculator\My Calculator\obj\x86\Debug\My_Calculator.Properties.Resources.resources
+C:\Users\MAX\Desktop\WORK\Desktop\VSapp\My Calculator\My Calculator\obj\x86\Debug\My Calculator.csproj.GenerateResource.Cache
